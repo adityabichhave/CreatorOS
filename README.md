@@ -146,3 +146,4 @@ npm start
 ---
 
 Built with ❤️ for content creators. Powered by Google Gemini AI.
+# CreatorOS
